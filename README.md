@@ -27,7 +27,14 @@ Dentro de github, podemos ver las ramas desde la interfaz gráfica del sitio web
 - **Terminal -** `git checkout pebd`
 - **GitHub -** [pebd](https://github.com/dmadcham/BigData/tree/pebd)
 
+- **Jupyther/Python -** Para usar los notebooks sin tener Jupyther instalado se utilizan Dev Containers
+
+    Para abrir el Dev Container desde VSCode y forks de este se usa `CTRL + SHIFT + P` y luego `Dev Container: Open Folder in Container`
+
 ## Frameworks para Big Data
+
+- **Terminal -** `git checkout fbd`
+- **GitHub -** [fbd](https://github.com/dmadcham/BigData/tree/fbd)
 
 ## Bases de Datos No Relacionales
 
@@ -35,3 +42,6 @@ Dentro de github, podemos ver las ramas desde la interfaz gráfica del sitio web
 - **GitHub -** [nosql](https://github.com/dmadcham/BigData/tree/nosql)
 
 ## Procesamiento de Datos
+
+- **Terminal -** `git checkout pd`
+- **GitHub -** [pd](https://github.com/dmadcham/BigData/tree/pd)
