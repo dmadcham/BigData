@@ -33,6 +33,15 @@ Dentro de github, podemos ver las ramas desde la interfaz gráfica del sitio web
 
 ## Frameworks para Big Data
 
+- **Terminal -** `git checkout fbd`
+- **GitHub -** [fbd](https://github.com/dmadcham/BigData/tree/fbd)
+
 ## Bases de Datos No Relacionales
 
+- **Terminal -** `git checkout nosql`
+- **GitHub -** [nosql](https://github.com/dmadcham/BigData/tree/nosql)
+
 ## Procesamiento de Datos
+
+- **Terminal -** `git checkout pd`
+- **GitHub -** [pd](https://github.com/dmadcham/BigData/tree/pd)
